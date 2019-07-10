@@ -1,9 +1,5 @@
-# Cài đặt - Sử dụng
+# Version
 
 Framework: Laravel 5.8.
-
-## Version
-
-Laravel 5.8.
 
 ## 
